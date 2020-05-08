@@ -5,4 +5,4 @@
 - Thiago Borghi Lopes Galvão
 - Henrique
 - Ricardo
-Fransuelen Lula
+- Fransuelen Lula
